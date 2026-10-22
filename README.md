@@ -88,7 +88,7 @@ itsm-ticket-ml/
 The data lives in a course-provided MySQL database and is not redistributed here, so you'll need your own access to it.
 
 ```bash
-git clone https://github.com/<your-username>/itsm-ticket-ml.git
+git clone https://github.com/Shyam82adodariya/itsm-ticket-ml.git
 cd itsm-ticket-ml
 python -m venv .venv && .venv\Scripts\activate      # Windows
 pip install -r requirements.txt
